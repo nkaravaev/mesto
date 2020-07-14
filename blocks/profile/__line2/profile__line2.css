@@ -1,0 +1,18 @@
+.profile__line2 {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffffff;
+    margin: 0;
+    padding-top: 8px;
+}
+
+@media (max-width: 920px) {
+    .profile__line2 {
+        font-size: 14px;
+        line-height: 17px;
+        text-align: center;
+        padding: 0;
+    }
+}

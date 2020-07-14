@@ -1,0 +1,11 @@
+.profile__lines {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+@media (max-width: 920px) {
+    .profile__lines {
+        margin-left: 0;
+    }
+}
