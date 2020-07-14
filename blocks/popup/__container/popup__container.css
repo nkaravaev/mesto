@@ -10,3 +10,12 @@
     flex-direction: column;
     position: relative;
 }
+
+
+@media (max-width: 440px) {
+    .popup__container {
+        max-width: 280px;
+       
+    }
+}
+

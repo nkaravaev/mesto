@@ -1,7 +1,7 @@
 @import url(./__item/elements__item.css);
 @import url(./__photo/elements__photo.css);
 @import url(./__caption/elements__caption.css);
-@import url(./__caption_text/elements__caption_text.css);
+@import url(./__text/elements__text.css);
 
 .elements {
     max-width: 882px;
