@@ -1,4 +1,4 @@
-.profile__line-one {
+.profile__line-name {
     font-style: normal;
     font-weight: 500;
     font-size: 42px;
@@ -8,7 +8,7 @@
 }
 
 @media (max-width: 920px) {
-    .profile__line-one {
+    .profile__line-name {
         font-size: 27px;
         line-height: 2.1;
         text-align: center;

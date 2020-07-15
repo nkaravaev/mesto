@@ -2,10 +2,10 @@ let editProfileBtn = document.querySelector(".profile__edit_button");
 let closePopUpBtn = document.querySelector(".popup__close-button");
 let popUp = document.querySelector(".popup");
 let formElement = document.querySelector(".popup__container");
-let nameInput = document.querySelector(".popup__input-one");
-let bioInput = document.querySelector(".popup__input-two");
-let profileName = document.querySelector(".profile__line-one");
-let profileBio = document.querySelector(".profile__line-two");
+let nameInput = document.querySelector(".popup__input_name");
+let bioInput = document.querySelector(".popup__input_job");
+let profileName = document.querySelector(".profile__line-name");
+let profileBio = document.querySelector(".profile__line-job");
 
 
 function openPopUp() {

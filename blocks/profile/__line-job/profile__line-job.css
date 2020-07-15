@@ -1,4 +1,4 @@
-.profile__line-two {
+.profile__line-job {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
@@ -9,7 +9,7 @@
 }
 
 @media (max-width: 920px) {
-    .profile__line-two {
+    .profile__line-job {
         font-size: 14px;
         line-height: 17px;
         text-align: center;

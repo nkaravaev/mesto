@@ -3,8 +3,8 @@
 @import url(./__line/popup__line.css);
 @import url(./__heading/popup__heading.css);
 @import url(./__button/popup__button.css);
-@import url(./__input_one/popup__input_one.css);
-@import url(./__input_two/popup__input_two.css);
+@import url(./__input_name/popup__input_name.css);
+@import url(./__input_job/popup__input_job.css);
 
 .popup {
     position: fixed;
