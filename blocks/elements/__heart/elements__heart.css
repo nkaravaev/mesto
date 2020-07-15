@@ -1,0 +1,7 @@
+.elements__heart{
+    background-image: url(../../../images/heart.png);
+    width: 21px;
+    height: 19px;
+    border: none;
+    background-color:white;
+}

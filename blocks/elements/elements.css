@@ -2,6 +2,8 @@
 @import url(./__photo/elements__photo.css);
 @import url(./__caption/elements__caption.css);
 @import url(./__text/elements__text.css);
+@import url(./__heart/elements__heart.css);
+
 
 .elements {
     max-width: 882px;
